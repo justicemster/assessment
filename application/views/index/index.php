@@ -1,7 +1,6 @@
 <div class="container">
     <div class="jumbotron">
-    <h1>Hello!</h1>
-        <p>Welcome to our in-house developer assessment application</p>
-        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+        <h1>Hello!</h1>
+        <p>Well Done! Below are more instructions on how to complete the assessment</p>
     </div>
 </div>
