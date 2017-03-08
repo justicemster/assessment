@@ -21,33 +21,7 @@
                   </ul>
               </div>
             </div>
-        </div>
-        <div class="col-sm-6 col-md-6">
-            <div class="thumbnail">
-                <div class="caption">
-                  <h3>Adjustments</h3>
-                  <ul class="list-group">
-                      <li class="list-group-item">Improvements are welcome</li>
-                      <li class="list-group-item">Document Changes Well</li>
-                  </ul>
-              </div>
-            </div>
-        </div>
-        <div class="col-sm-6 col-md-6">
-            <div class="thumbnail">
-                <div class="caption">
-                  <h3>Version Control</h3>
-                  <ul class="list-group">
-                      <li class="list-group-item">Please use github for submission</li>
-                      <li class="list-group-item">Create a branch with your name</li>
-                      <li class="list-group-item">Commit changes to theis branch</li>
-                      <li class="list-group-item">When complete push branch to repo</li>
-                  </ul>
-              </div>
-            </div>
-        </div>
-        <div class="col-sm-6 col-md-6">
-            <div class="thumbnail">
+			<div class="thumbnail">
                 <div class="caption">
                   <h3>Plugins</h3>
                   <ul class="list-group">
@@ -60,6 +34,29 @@
               </div>
             </div>
         </div>
+        <div class="col-sm-6 col-md-6">
+            <div class="thumbnail">
+                <div class="caption">
+                  <h3>Adjustments</h3>
+                  <ul class="list-group">
+                      <li class="list-group-item">Improvements are welcome</li>
+                      <li class="list-group-item">Document Changes Well</li>
+                  </ul>
+              </div>
+            </div>
+			<div class="thumbnail">
+                <div class="caption">
+                  <h3>Version Control</h3>
+                  <ul class="list-group">
+                      <li class="list-group-item">Please use github for submission</li>
+                      <li class="list-group-item">Create a branch with your name</li>
+                      <li class="list-group-item">Commit changes to this branch</li>
+                      <li class="list-group-item">When complete push branch to repo</li>
+                  </ul>
+              </div>
+            </div>
+        </div>
+
     </div>
 </div>
 <div 

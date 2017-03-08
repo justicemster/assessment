@@ -1,12 +1,3 @@
-<FilesMatch "\.(js|css|swf)$">
-    Header set Cache-Control "max-age=604800, public"
-</FilesMatch>
-
-# 1 WEEK
-<FilesMatch "\.(jpg|jpeg|png|gif|ico)$">
-    Header set Cache-Control "max-age=31536000, public"
-</FilesMatch>
-
 RewriteEngine On
 
 RewriteCond %{REQUEST_FILENAME} !-d
